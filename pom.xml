@@ -3,14 +3,14 @@
 
     <groupId>com.vallebu</groupId>
     <artifactId>hyttebok</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>hyttebok</name>
 
     <scm>
         <developerConnection>scm:git:git@github.com:oysval/hyttebok.git</developerConnection>
-      <tag>hyttebok-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
